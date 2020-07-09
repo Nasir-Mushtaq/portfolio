@@ -1,0 +1,43 @@
+.nav nav {
+    text-align: center;
+    
+}
+.nav a {
+
+    text-decoration: none;
+    padding: 15px;
+    color: black;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+nav a:hover {
+    color: chartreuse;
+
+}
+
+body {
+    background-image: url("background.png");
+    margin-top: 50px;
+    font-family: 'Prompt', sans-serif;
+}
+
+#about {
+    width:600px;
+    margin-top: 260px;
+    margin-left: 120px;
+    padding: 20px;
+    border-bottom: black dotted;
+}
+#hobbies {
+    width:600px;
+    margin-left: 120px;
+    padding: 20px;
+    border-bottom: black dotted;
+}
+#work {
+    width:600px;
+    margin-left: 120px;
+    padding: 20px;
+    border-bottom: black dotted;
+}
